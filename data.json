@@ -1,6 +1,12 @@
 {
     "productList": [
-                        {
+           {
+            "name": "sempak",
+            "price": "Rp. 1.5000.000",
+            "image": "1.JPG",
+            "link": "https://tokopedia.link/ZGB005YO8Pb"
+        },           
+        {
             "name": "Motherboard H81 Intel 4th Generation LGA 1150 DDR3",
             "price": "Rp. 1.500.000",
             "image": "1.JPG",
