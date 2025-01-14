@@ -3,26 +3,14 @@
                         {
             "name": "Motherboard H81 Intel 4th Generation LGA 1150 DDR3",
             "price": "Rp. 1.500.000",
-            "image": "tes.jpg",
+            "image": "1.jpg",
             "link": "https://tokopedia.com/"
         },
 {
             "name": "Motherboard H81 Intel 4th Generation LGA 1150 DDR3",
             "price": "Rp. 1.500.000",
-            "image": "tes.jpg",
+            "image": "1.jpg",
             "link": "https://example.com/produk1"
-        },
-{
-            "name": "Motherboard H81 Intel 4th Generation LGA 1150 DDR3",
-            "price": "Rp. 1.500.000",
-            "image": "tes.jpg",
-            "link": "https://example.com/produk1"
-        },
-        {
-            "name": "pensil",
-            "price": "Rp 1.000",
-            "image": "tes.jpg",
-            "link": "https://example.com/produk2"
-        }
+}
     ]
 }
