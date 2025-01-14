@@ -7,8 +7,8 @@
             "link": "https://example.com/produk1"
         },
         {
-            "name": "Produk 2",
-            "price": "Rp. 55.0000",
+            "name": "pensil",
+            "price": "Rp 1.000",
             "image": "tes.jpg",
             "link": "https://example.com/produk2"
         }
