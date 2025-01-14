@@ -31,7 +31,7 @@ function displayProducts(products) { //function display product non offer
       productCard.setAttribute('data-name', product.name);
       productCard.setAttribute('data-description', product.description);
   
-      const image = product.image.includes('http') ? product.image : `product/${product.image}`;
+      const image = product.image.includes('http') ? product.image : `${product.image}`;
       productCard.innerHTML = `
         <img src="${image}" alt="Product Image">
         <div class="product-info">
